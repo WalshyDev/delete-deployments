@@ -7,6 +7,8 @@
 git clone https://github.com/WalshyDev/delete-deployments.git
 cd delete-deployments
 
+npm install
+
 # Modify the projectName variable
 # (optional) Modify the notBranches and olderThanDays variables (default to 30 days and no branches excluded)
 
